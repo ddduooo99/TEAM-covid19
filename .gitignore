@@ -1,0 +1,4 @@
+# 忽略超大数据文件
+data/Processed/all_seq_msa_S_aa.fasta
+data/Processed/Covid19/ESM/*.csv
+data/supplyment/public-latest.metadata.tsv
